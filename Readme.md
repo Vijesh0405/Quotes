@@ -14,8 +14,8 @@ You can try the app live on Netlify: [Quotes App Demo](https://fresh-quotes.netl
 
 ## Screenshots
 
-![App Screenshot](![Alt text](image.png))
-![App Screenshot]![Alt text](image-1.png)
+![App Screenshot](image.png)
+![App Screenshot](image-1.png)
 ## How to Use
 
 1. Simply open the app in your web browser.

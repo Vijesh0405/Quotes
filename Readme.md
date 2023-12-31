@@ -10,7 +10,7 @@ Welcome to the Quotes App! This simple web application fetches random quotes usi
 
 ## Demo
 
-You can try the app live on Netlify: [Quotes App Demo](https://your-netlify-app-link)
+You can try the app live on Netlify: [Quotes App Demo](https://fresh-quotes.netlify.app/)
 
 ## Screenshots
 

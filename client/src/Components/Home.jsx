@@ -40,7 +40,7 @@ const Home = () => {
                 <button className='font-medium bg-[#6469ff] text-white px-4 py-2 rounded-md' onClick={handleGenerate}> Generate</button>
             </div>
             
-                <div className='mt-10 mx-auto w-[16%]'>
+                <div className='mt-10 mx-auto w-72'>
                     {quote?<Card {...quote[0]}/>:<></>}
                 </div>
             

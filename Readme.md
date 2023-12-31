@@ -37,7 +37,8 @@ The app fetches quotes from the [Random Quotes API](https://famous-quotes4.p.rap
 No installation is required for this app. 
 just follow simple code snippets and paste them into your code editor terminal
 
-#clone this project directly 
+#clone this project directly -use this command 
+<br>
 git clone https://github.com/Vijesh0405/Quotes.git
 
 
